@@ -1,0 +1,11 @@
+C:\Users\ranel\source\repos\polygon\polygon\bin\Debug\polygon.exe.config
+C:\Users\ranel\source\repos\polygon\polygon\bin\Debug\polygon.exe
+C:\Users\ranel\source\repos\polygon\polygon\bin\Debug\polygon.pdb
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.csprojAssemblyReference.cache
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.Form1.resources
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.Properties.Resources.resources
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.csproj.GenerateResource.cache
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.csproj.CoreCompileInputs.cache
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.exe
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.pdb
+C:\Users\ranel\source\repos\polygon\polygon\obj\Debug\polygon.Form2.resources
